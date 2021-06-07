@@ -1,0 +1,13 @@
+# Default ignored files
+project/target
+target/
+
+# IntelliJ
+*.idea
+.idea/
+.bsp/
+
+# VSCODE
+.vscode/
+*.metals
+.history/
